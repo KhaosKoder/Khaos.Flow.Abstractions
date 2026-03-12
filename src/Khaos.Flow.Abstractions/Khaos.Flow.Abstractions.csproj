@@ -5,7 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <IsPackable>true</IsPackable>
-    <PackageId>KhaosCode.Flow.Abstractions</PackageId>
+    <PackageId>KhaosKode.Flow.Abstractions</PackageId>
     <Description>Core abstractions for state-machine workflow orchestration with branching and transitions.</Description>
     <PackageTags>flow;workflow;state-machine;orchestration;abstractions</PackageTags>
     <PackageReadmeFile>README.md</PackageReadmeFile>
